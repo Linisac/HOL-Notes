@@ -1,0 +1,2 @@
+.If a function FUN (with definition FUN_def) is defined via if-then-else and FUN appears in the goal, then rw[FUN_def] strips the if-then-else and adds the corresponding condition as an assumption
+.rw[] can reorient equalities to eliminate variables
