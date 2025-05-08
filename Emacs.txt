@@ -1,0 +1,1 @@
+. Use M-x Del-t to delete trailing whitespaces
