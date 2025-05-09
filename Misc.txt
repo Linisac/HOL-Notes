@@ -1,0 +1,1 @@
+.When proving a theorem, be sure to load all relevant definitions, otherwise, HOL may treat an identifier (defined elsewhere) as a 'variable'.

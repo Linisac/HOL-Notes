@@ -3,3 +3,4 @@
 .cases_on `n = 1` splits the current goal into two subgoals, for true and false, respectively
 .EVAL_TAC can be used to EVAL the terms in the conclusion in the current goal
 .ARITH_TAC solves arithmetic goals involving integers (and some friends, like naturals)
+.Use metis_tac to do first-order resolution and symmetry of equality but not arithmetics
